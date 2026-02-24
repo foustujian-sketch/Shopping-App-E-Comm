@@ -89,7 +89,7 @@ Klik tombol "Checkout" untuk masuk ke halaman pengiriman. Isi form yang tersedia
 
 <div align="center">
     <img width="250" height="600" alt="Screenshot_20260225_041008" src="https://github.com/user-attachments/assets/9df40d34-62cc-4a3b-b01d-7a60f812c86e" />
-    <img width="1080" height="2400" alt="Screenshot_20260225_041456" src="https://github.com/user-attachments/assets/a709a2e8-bfbc-466a-b658-6f88daca0969" />
+    <img width="250" height="600" alt="Screenshot_20260225_041456" src="https://github.com/user-attachments/assets/a709a2e8-bfbc-466a-b658-6f88daca0969" />
     <img width="250" height="600" alt="Screenshot_20260225_041035" src="https://github.com/user-attachments/assets/2826cd22-24a3-4d6c-bc17-9bcc2111287c" />
 </div>
 
