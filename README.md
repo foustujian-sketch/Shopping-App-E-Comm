@@ -1,8 +1,11 @@
-# 🛒 Mini E-Commerce App: Solusi Belanja Pintar
+# Mini E-Commerce App: Solusi Belanja Pintar
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-State_Management-blueviolet?style=for-the-badge)
+
+---
+*Abdurrahman Al Farisy (2409116055)*
 
 ## Deskripsi Aplikasi
 
@@ -62,8 +65,9 @@ Berikut adalah panduan langkah demi langkah (*user journey*) dalam menggunakan a
 Saat membuka aplikasi, jelajahi produk menggunakan kolom pencarian atau filter kategori. Klik "Tambah" pada *card* produk untuk memasukannya ke keranjang.
 
 <div align="center">
-    <img width="250" height="500" alt="Halaman Utama" src="https://placehold.co/250x500/e2e8f0/475569?text=Halaman+Utama\nKatalog" />
-    <img width="250" height="500" alt="Filter Kategori" src="https://placehold.co/250x500/e2e8f0/475569?text=Fitur+Pencarian\n& Filter" />
+    <img width="250" height="600" alt="Screenshot_20260225_035850" src="https://github.com/user-attachments/assets/e3cb5fd9-5d5c-42bf-b9ea-ed15b3514789" />
+    <img width="250" height="600" alt="Screenshot_20260225_035902" src="https://github.com/user-attachments/assets/67c928ca-00a7-4bec-a102-c9d37fe0d2c7" />
+    <img width="250" height="600" alt="Screenshot_20260225_035824" src="https://github.com/user-attachments/assets/e9c71635-1708-4458-aba8-13b5a5e5e151" />
 </div>
 
 <br>
@@ -72,7 +76,10 @@ Saat membuka aplikasi, jelajahi produk menggunakan kolom pencarian atau filter k
 Klik ikon keranjang di pojok kanan atas. Anda dapat menambah atau mengurangi jumlah item menggunakan tombol `+` dan `-`, atau menghapusnya sama sekali menggunakan ikon tong sampah merah.
 
 <div align="center">
-    <img width="250" height="500" alt="Keranjang Belanja" src="https://placehold.co/250x500/e2e8f0/475569?text=Halaman\nKeranjang" />
+    <img width="250" height="600" alt="Screenshot_20260225_040607" src="https://github.com/user-attachments/assets/e112f248-e027-4f18-a2a6-14cc1b8de3e7" />
+    <img width="250" height="600" alt="Screenshot_20260225_040616" src="https://github.com/user-attachments/assets/652ff42d-f469-4dc3-b1eb-4d9b88c2fdcd" />
+    <img width="250" height="600" alt="Screenshot_20260225_040622" src="https://github.com/user-attachments/assets/05d7eb40-1a3f-4b5d-991d-64de5e606718" />
+
 </div>
 
 <br>
@@ -81,8 +88,9 @@ Klik ikon keranjang di pojok kanan atas. Anda dapat menambah atau mengurangi jum
 Klik tombol "Checkout" untuk masuk ke halaman pengiriman. Isi form yang tersedia. Jika ada kolom yang terlewat, sistem akan memberikan peringatan keamanan.
 
 <div align="center">
-    <img width="250" height="500" alt="Form Checkout" src="https://placehold.co/250x500/e2e8f0/475569?text=Halaman\nCheckout" />
-    <img width="250" height="500" alt="Validasi Form" src="https://placehold.co/250x500/e2e8f0/475569?text=Peringatan\nValidasi" />
+    <img width="250" height="600" alt="Screenshot_20260225_041008" src="https://github.com/user-attachments/assets/9df40d34-62cc-4a3b-b01d-7a60f812c86e" />
+    <img width="1080" height="2400" alt="Screenshot_20260225_041456" src="https://github.com/user-attachments/assets/a709a2e8-bfbc-466a-b658-6f88daca0969" />
+    <img width="250" height="600" alt="Screenshot_20260225_041035" src="https://github.com/user-attachments/assets/2826cd22-24a3-4d6c-bc17-9bcc2111287c" />
 </div>
 
 <br>
@@ -91,8 +99,8 @@ Klik tombol "Checkout" untuk masuk ke halaman pengiriman. Isi form yang tersedia
 Setelah form diisi dengan benar dan tombol "Konfirmasi Pesanan" ditekan, *Pop-up* sukses akan muncul. Menekan tombol "Kembali ke Beranda" akan membawa Anda kembali ke halaman awal dengan keranjang yang sudah direset.
 
 <div align="center">
-    <img width="250" height="500" alt="Pesanan Sukses" src="https://placehold.co/250x500/e2e8f0/475569?text=Pop-up\nPesanan+Berhasil" />
+    <img width="250" height="600" alt="Screenshot_20260225_041045" src="https://github.com/user-attachments/assets/71fbc590-acd1-4ed9-8f58-5009264a5e08" />
 </div>
 
 ---
-*Dikembangkan oleh Faris - Mahasiswa Sistem Informasi, Fakultas Teknik, Universitas Mulawarman.*
+*Abdurrahman Al Farisy (2409116055)*
